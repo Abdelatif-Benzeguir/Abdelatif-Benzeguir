@@ -1,11 +1,11 @@
 # Hi there, I'm Dr. Abdelatif Benzeguir! 👋
 
-Welcome to my GitHub profile! I am a **Contractual University Professor** and Academic Researcher specializing in **Corporate Finance** (مالية المؤسسة). My work focuses on bridging the gap between advanced economic theory and practical financial solutions by leveraging **Deep Learning** models and **Artificial Intelligence** applications to solve complex, real-world financial problems.
+Welcome to my GitHub profile! I am a **Contractual University Professor** and Academic Researcher specializing in **Corporate Finance**. My work focuses on bridging the gap between advanced economic theory and practical financial solutions by leveraging **Deep Learning** models and **Artificial Intelligence** applications to solve complex, real-world financial problems.
 
 ## About Me
 
 - 💼 **Contractual University Professor** & Researcher specializing in Corporate Finance.
-- 🎓 **Ph.D. in Corporate Finance** (مالية المؤسسة).
+- 🎓 **Ph.D. in Corporate Finance**.
 - 🌱 **Research Interests:** Financial Econometrics, Machine Learning in Finance, Credit Risk Modeling, Dimension Reduction, and Deep Learning applications for SME Distress Prediction.
 - 🧠 Bridging the gap between financial intelligence and cutting-edge AI methodologies.
 
