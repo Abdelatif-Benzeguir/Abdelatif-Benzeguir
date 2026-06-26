@@ -1,50 +1,42 @@
-# Hi there, I'm Tanishq Mahajan! 👋
+# Hi there, I'm Dr. Abdelatif Benzeguir! 👋
 
-Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, Machine Learning, SQL, Power BI, Tableau and MS Excel. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
+Welcome to my GitHub profile! I am a **Contractual University Professor** and Academic Researcher specializing in **Corporate Finance** (مالية المؤسسة). My work focuses on bridging the gap between advanced economic theory and practical financial solutions by leveraging **Deep Learning** models and **Artificial Intelligence** applications to solve complex, real-world financial problems.
 
 ## About Me
 
-- 💼 Aspiring Data Scientist
-- 🎓 Post Graduate Program in Artificial Intelligence and Machine Learning.
-- 🌱 Actively exploring advanced data visualization techniques and machine learning algorithms
-- 🎓 Bachelor's in Mechanical, Terna Engineering College, Nerul, India.
+- 💼 **Contractual University Professor** & Researcher specializing in Corporate Finance.
+- 🎓 **Ph.D. in Corporate Finance** (مالية المؤسسة).
+- 🌱 **Research Interests:** Financial Econometrics, Machine Learning in Finance, Credit Risk Modeling, Dimension Reduction, and Deep Learning applications for SME Distress Prediction.
+- 🧠 Bridging the gap between financial intelligence and cutting-edge AI methodologies.
 
 ## Skills
 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-0078D4?style=for-the-badge&logo=machine-learning&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-00537E?style=for-the-badge&logo=Tableau&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0078D4?style=for-the-badge&logo=analytics&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-217346?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![R](https://img.shields.io/badge/-R%20Language-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Financial Econometrics](https://img.shields.io/badge/-Financial%20Econometrics-8E44AD?style=for-the-badge)
+![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-F39C12?style=for-the-badge)
 
-### Projects
+### Featured Research & Projects
 
-**1. Machine Learning Projects**
-- **[Brain Stroke Prediction](https://github.com/tanishqmahajan28/Brain-Stroke-Prediction)**: Created a predictive machine learning model for brain stroke risk assessment, achieving 95% accuracy to support early intervention and prevention.
-- **[California House Price Prediction](https://github.com/tanishqmahajan28/California-House-Price-Prediction)**: Developed a machine learning model to predict California house prices using multiple regression techniques for accurate price forecasting.
-- **[Gender Classification](https://github.com/tanishqmahajan28/Gender-Classification)**: Applied machine learning algorithms to accurately identify gender from facial metrics and personal attributes.
-- **[Car Price Prediction](https://github.com/tanishqmahajan28/Car-Price-Prediction)**: Built a machine learning model to predict used car prices by leveraging regression techniques and data analysis, delivering accurate and actionable price insights.
+Here are some of my key academic publications and research implementations:
 
-**2. Deep Learning Projects**
-- **[Game Sentimental Analysis](https://github.com/tanishqmahajan28/Game-Sentiment-Analysis)**: Sentiment analysis on Twitter comments related to various games using NLP and deep learning models like RNN and LSTM for sentiment classification.
-- **[Customer Credit Score Predictor](https://github.com/tanishqmahajan28/Customer-Credit-Score-Predictor)**: Predict customer credit scores (Good, Poor, Standard) using an ANN model based on financial and personal data.
+**1. [Predicting Financial Distress in Algerian SMEs: A Deep Neural Networks (DNN) Framework for Resource-Constrained Environments](https://github.com/Abdelatif-Benzeguir)**
+- A specialized framework deploying Deep Neural Networks tailored to assess and predict financial distress within the unique constraints of small and medium-sized enterprises in Algeria.
 
-**3. Power BI Projects**
-- **[Super Store Sales Analysis](https://github.com/tanishqmahajan28/Superstore-sales-Analysis)**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
-- **[Spotify Analysis](https://github.com/tanishqmahajan28/Spotify-Analysis)**: Designed a data-driven dashboard offering insights into track popularity and artist trends on Spotify.
-  
-**4. Tableau Projects**
-- **[HR Analytics](https://github.com/tanishqmahajan28/HR-Analytics)**: Created an interactive Tableau dashboard for analyzing employee attrition, satisfaction, and demographics across departments.
-- **[Data Science Salary Analysis](https://github.com/tanishqmahajan28/Data-Science-Salary-Analysis)**: Designed an interactive salary analytics dashboard for data science roles, highlighting global trends in pay by experience and employment type.
-- **[Covid 19 Analysis](https://github.com/tanishqmahajan28/Covid-19-in-India-Analysis)**: Generated a data visualization dashboard to assess COVID-19 spread and healthcare responses in India.
+**2. [Financial Dimension Reduction via Genetic Algorithms for SME Distress Prediction: Evidence from Algeria](https://github.com/Abdelatif-Benzeguir)**
+- A study integrating Genetic Algorithms for optimal feature selection and dimension reduction, enhancing the predictive performance of financial distress models.
+
+**3. [Stock Price Forecasting Using Machine Learning Algorithms: A Comparative Study](https://github.com/Abdelatif-Benzeguir)**
+- An extensive comparative analysis evaluating the efficacy of various machine learning algorithms in predicting stock market trends and asset pricing.
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-mahajan-46198a208/)
-- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqmahajan28)
-- [![Hackerrank](https://img.shields.io/badge/-Hackerrank-181717?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/trmahajan28)
-- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trmahajan28@gmail.com)
+- [![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-7814-8633)
+- [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Benzeguir-Abdelatif)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelatif-benzeguir-6483751a2/)
+- [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Abdelatif-Benzeguir)
+- [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdelatif.benzeguir@univ-temouchent.edu.dz)
 
-Feel free to explore my repositories and reach out for collaboration opportunities or just to connect.... Always ready to help! 😊
+Feel free to explore my repositories, check out my research implementations, and reach out for academic collaborations or research inquiries! 🚀
