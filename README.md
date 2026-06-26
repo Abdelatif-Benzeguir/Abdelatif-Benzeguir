@@ -22,10 +22,10 @@ Welcome to my GitHub profile! I am a **Contractual University Professor** and Ac
 
 Here are some of my key academic publications and research implementations:
 
-**1. [Predicting Financial Distress in Algerian SMEs: A Deep Neural Networks (DNN) Framework for Resource-Constrained Environments](https://github.com/Abdelatif-Benzeguir)**
+**1. [Predicting Financial Distress in Algerian SMEs: A Deep Neural Networks (DNN) Framework for Resource-Constrained Environments](https://github.com/Abdelatif-Benzeguir/Predicting-Financial-Distress)**
 - A specialized framework deploying Deep Neural Networks tailored to assess and predict financial distress within the unique constraints of small and medium-sized enterprises in Algeria.
 
-**2. [Financial Dimension Reduction via Genetic Algorithms for SME Distress Prediction: Evidence from Algeria](https://github.com/Abdelatif-Benzeguir)**
+**2. [Financial Dimension Reduction via Genetic Algorithms for SME Distress Prediction: Evidence from Algeria](https://github.com/Abdelatif-Benzeguir/Financial-Dimension-Reduction)**
 - A study integrating Genetic Algorithms for optimal feature selection and dimension reduction, enhancing the predictive performance of financial distress models.
 
 **3. [Stock Price Forecasting Using Machine Learning Algorithms: A Comparative Study](https://github.com/Abdelatif-Benzeguir)**
